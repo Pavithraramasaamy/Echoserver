@@ -62,11 +62,13 @@ print(f"Received {data!r}")
 ## OUTPUT:
 ## SERVER:
 
-![server](https://github.com/user-attachments/assets/ba555385-6117-4ee4-a509-3dd392358e04)
+![image](https://github.com/user-attachments/assets/1237a0fa-dd96-49a4-a00b-3f4558e068ff)
+
 
 ## CLIENT:
 
-![client](https://github.com/user-attachments/assets/6e15b6ea-fd24-4a27-ab27-29506606dadb)
+![image](https://github.com/user-attachments/assets/1dc5b713-0c7b-4641-9fa9-770238d81341)
+
 
 
 ## RESULT:
